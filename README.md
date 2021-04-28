@@ -12,7 +12,7 @@ Un blog increible para el curso  Git y GitHub de Platzi
 - Las personalidades multiples de Freddy.- Las personalidades multiples de Freddy.
 - Creado por el increíble ieb team. 
 - Incluye ejemplos en Windows, Linux y Mac.
-
+- Disponible para todas las edades.
 
  Y como un amable recordatorio : **Este readme.md es un chiste** Diseñado para el ejemplo.
  
