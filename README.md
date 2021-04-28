@@ -10,6 +10,7 @@ Un blog increible para el curso  Git y GitHub de Platzi
 - El verdadero amor por las buenas prácticas .
 - Trucos muy locos del profesor 
 - Las personalidades multiples de Freddy.- Las personalidades multiples de Freddy.
+- Creado por el increíble ieb team. 
 
  Y como un amable recordatorio : **Este readme.md es un chiste** Diseñado para el ejemplo.
  
